@@ -7,13 +7,11 @@ module.exports = {
       colors:{
         mainColor: '#0A0A09',
         yellow: '#D4CC7B',
+        btnbg:'#DBB500',
       },
       padding:{
         big:'50px',
       },
-      bg:{
-        btnbg:'#DBB500',
-      }
     },
   },
   plugins: [],
