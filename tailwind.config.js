@@ -5,10 +5,14 @@ module.exports = {
   theme: {
     extend: {
       colors:{
-        mainColor: '#050C2A'
+        mainColor: '#0A0A09',
+        yellow: '#D4CC7B',
       },
       padding:{
-        big:'50px'
+        big:'50px',
+      },
+      bg:{
+        btnbg:'#DBB500',
       }
     },
   },
