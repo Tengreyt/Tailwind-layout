@@ -792,10 +792,6 @@ video {
   display: flex;
 }
 
-.h-\[113px\] {
-  height: 113px;
-}
-
 .h-\[67px\] {
   height: 67px;
 }
@@ -832,10 +828,6 @@ video {
   width: 278px;
 }
 
-.w-\[315px\] {
-  width: 315px;
-}
-
 .w-\[397px\] {
   width: 397px;
 }
@@ -862,6 +854,10 @@ video {
 
 .w-\[94px\] {
   width: 94px;
+}
+
+.max-w-\[315px\] {
+  max-width: 315px;
 }
 
 .cursor-pointer {
