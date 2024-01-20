@@ -658,6 +658,42 @@ video {
   top: 800px;
 }
 
+.right-\[200px\] {
+  right: 200px;
+}
+
+.right-\[400px\] {
+  right: 400px;
+}
+
+.right-\[100px\] {
+  right: 100px;
+}
+
+.right-\[-100px\] {
+  right: -100px;
+}
+
+.right-\[-300px\] {
+  right: -300px;
+}
+
+.right-\[-200px\] {
+  right: -200px;
+}
+
+.right-\[-120px\] {
+  right: -120px;
+}
+
+.right-\[-180px\] {
+  right: -180px;
+}
+
+.right-\[-190px\] {
+  right: -190px;
+}
+
 .-z-20 {
   z-index: -20;
 }
@@ -678,9 +714,18 @@ video {
   z-index: 20;
 }
 
+.z-\[-10\] {
+  z-index: -10;
+}
+
 .mx-auto {
   margin-left: auto;
   margin-right: auto;
+}
+
+.my-\[90px\] {
+  margin-top: 90px;
+  margin-bottom: 90px;
 }
 
 .mb-\[173px\] {
@@ -727,6 +772,10 @@ video {
   margin-top: 30px;
 }
 
+.mt-\[36px\] {
+  margin-top: 36px;
+}
+
 .mt-\[41px\] {
   margin-top: 41px;
 }
@@ -751,12 +800,16 @@ video {
   margin-top: 88px;
 }
 
+.mt-\[78px\] {
+  margin-top: 78px;
+}
+
 .mt-\[90px\] {
   margin-top: 90px;
 }
 
-.mt-\[36px\] {
-  margin-top: 36px;
+.mb-\[244px\] {
+  margin-bottom: 244px;
 }
 
 .flex {
@@ -773,6 +826,10 @@ video {
 
 .h-\[93px\] {
   height: 93px;
+}
+
+.h-\[867px\] {
+  height: 867px;
 }
 
 .w-\[117px\] {
@@ -847,26 +904,26 @@ video {
   gap: 24px;
 }
 
-.gap-\[36px\] {
-  gap: 36px;
+.gap-\[25px\] {
+  gap: 25px;
 }
 
 .gap-\[80px\] {
   gap: 80px;
 }
 
-.gap-\[30px\] {
-  gap: 30px;
-}
-
-.gap-\[25px\] {
-  gap: 25px;
+.gap-\[72px\] {
+  gap: 72px;
 }
 
 .space-x-5 > :not([hidden]) ~ :not([hidden]) {
   --tw-space-x-reverse: 0;
   margin-right: calc(1.25rem * var(--tw-space-x-reverse));
   margin-left: calc(1.25rem * calc(1 - var(--tw-space-x-reverse)));
+}
+
+.rounded-\[10px\] {
+  border-radius: 10px;
 }
 
 .rounded-\[24px\] {
@@ -883,10 +940,6 @@ video {
 
 .rounded-xl {
   border-radius: 0.75rem;
-}
-
-.rounded-\[10px\] {
-  border-radius: 10px;
 }
 
 .rounded-s-3xl {
@@ -967,6 +1020,11 @@ video {
   padding-right: 54px;
 }
 
+.px-\[71px\] {
+  padding-left: 71px;
+  padding-right: 71px;
+}
+
 .px-\[88px\] {
   padding-left: 88px;
   padding-right: 88px;
@@ -995,11 +1053,6 @@ video {
 .py-big {
   padding-top: 50px;
   padding-bottom: 50px;
-}
-
-.px-\[71px\] {
-  padding-left: 71px;
-  padding-right: 71px;
 }
 
 .pb-\[23\.2px\] {
