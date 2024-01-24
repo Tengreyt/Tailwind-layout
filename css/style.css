@@ -792,6 +792,10 @@ video {
   display: flex;
 }
 
+.grid {
+  display: grid;
+}
+
 .h-\[67px\] {
   height: 67px;
 }
@@ -864,12 +868,12 @@ video {
   cursor: pointer;
 }
 
-.flex-col {
-  flex-direction: column;
+.grid-cols-3 {
+  grid-template-columns: repeat(3, minmax(0, 1fr));
 }
 
-.flex-wrap {
-  flex-wrap: wrap;
+.flex-col {
+  flex-direction: column;
 }
 
 .items-center {
